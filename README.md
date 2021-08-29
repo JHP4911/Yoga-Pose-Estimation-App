@@ -257,4 +257,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## 📧Contact:-
-For any kind of suggesstions/ help in code Please mail me at ksdkamesh99@gmail.com.
+For any kind of suggesstions/ help in code Please mail me at parmarjatin49119@gmail.com.
